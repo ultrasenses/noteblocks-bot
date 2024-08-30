@@ -3449,6 +3449,46 @@ __metadata:
   languageName: node
   linkType: hard
 
+"noteblocks-bot@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "noteblocks-bot@workspace:."
+  dependencies:
+    "@grammyjs/auto-chat-action": "npm:0.1.1"
+    "@grammyjs/hydrate": "npm:1.4.1"
+    "@grammyjs/i18n": "npm:1.0.2"
+    "@grammyjs/parse-mode": "npm:1.9.0"
+    "@grammyjs/types": "npm:3.5.2"
+    "@types/node": "npm:20.11.26"
+    "@typescript-eslint/eslint-plugin": "npm:7.2.0"
+    "@typescript-eslint/parser": "npm:7.2.0"
+    callback-data: "npm:1.1.1"
+    dotenv: "npm:16.4.5"
+    eslint: "npm:8.57.0"
+    eslint-config-airbnb-base: "npm:15.0.0"
+    eslint-config-prettier: "npm:9.1.0"
+    eslint-import-resolver-typescript: "npm:3.6.1"
+    eslint-plugin-import: "npm:2.29.1"
+    eslint-plugin-prettier: "npm:5.1.3"
+    eslint-plugin-unicorn: "npm:51.0.1"
+    fastify: "npm:4.26.2"
+    grammy: "npm:1.21.1"
+    grammy-guard: "npm:0.5.0"
+    husky: "npm:9.0.11"
+    iso-639-1: "npm:3.1.2"
+    lint-staged: "npm:15.2.2"
+    node-graceful-shutdown: "npm:1.1.5"
+    pino: "npm:8.19.0"
+    pino-pretty: "npm:10.3.1"
+    prettier: "npm:3.2.5"
+    prettier-plugin-organize-imports: "npm:3.2.4"
+    tsc-watch: "npm:6.0.4"
+    tsx: "npm:4.7.1"
+    typescript: "npm:5.4.2"
+    znv: "npm:0.4.0"
+    zod: "npm:3.22.4"
+  languageName: unknown
+  linkType: soft
+
 "npm-run-path@npm:^5.1.0":
   version: 5.3.0
   resolution: "npm-run-path@npm:5.3.0"
@@ -4633,46 +4673,6 @@ __metadata:
   checksum: 10c0/a5eca3eb50bc11552d453488344e6507156b9193efd7635e98e867fab275d527af53d8866e2370cd09dfe74378a18111622ace35af6a608e5223a7d27fe99537
   languageName: node
   linkType: hard
-
-"telegram-bot-template@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "telegram-bot-template@workspace:."
-  dependencies:
-    "@grammyjs/auto-chat-action": "npm:0.1.1"
-    "@grammyjs/hydrate": "npm:1.4.1"
-    "@grammyjs/i18n": "npm:1.0.2"
-    "@grammyjs/parse-mode": "npm:1.9.0"
-    "@grammyjs/types": "npm:3.5.2"
-    "@types/node": "npm:20.11.26"
-    "@typescript-eslint/eslint-plugin": "npm:7.2.0"
-    "@typescript-eslint/parser": "npm:7.2.0"
-    callback-data: "npm:1.1.1"
-    dotenv: "npm:16.4.5"
-    eslint: "npm:8.57.0"
-    eslint-config-airbnb-base: "npm:15.0.0"
-    eslint-config-prettier: "npm:9.1.0"
-    eslint-import-resolver-typescript: "npm:3.6.1"
-    eslint-plugin-import: "npm:2.29.1"
-    eslint-plugin-prettier: "npm:5.1.3"
-    eslint-plugin-unicorn: "npm:51.0.1"
-    fastify: "npm:4.26.2"
-    grammy: "npm:1.21.1"
-    grammy-guard: "npm:0.5.0"
-    husky: "npm:9.0.11"
-    iso-639-1: "npm:3.1.2"
-    lint-staged: "npm:15.2.2"
-    node-graceful-shutdown: "npm:1.1.5"
-    pino: "npm:8.19.0"
-    pino-pretty: "npm:10.3.1"
-    prettier: "npm:3.2.5"
-    prettier-plugin-organize-imports: "npm:3.2.4"
-    tsc-watch: "npm:6.0.4"
-    tsx: "npm:4.7.1"
-    typescript: "npm:5.4.2"
-    znv: "npm:0.4.0"
-    zod: "npm:3.22.4"
-  languageName: unknown
-  linkType: soft
 
 "text-table@npm:^0.2.0":
   version: 0.2.0
