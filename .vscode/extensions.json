@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "macabeus.vscode-fluent",
+    "mikestead.dotenv",
+    "arcanis.vscode-zipfs",
+    "esbenp.prettier-vscode"
+  ]
+}
